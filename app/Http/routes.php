@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/book-launch-on-lying');
 });
+
+Route::get('/book-launch-on-lying', 'BookLaunch@index');
+

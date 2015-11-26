@@ -182,7 +182,7 @@
                                 data-start="1700"
                                 data-easing="Back.easeInOut"
                                 data-endspeed="300"
-                                style="z-index: 7">Abraham lied?
+                                style="z-index: 7">Did Abraham lied?
                             </div>
     
                             <!-- LAYER NR. 7 -->

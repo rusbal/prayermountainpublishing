@@ -125,7 +125,7 @@
                                 data-easing="Back.easeOut"
                                 data-endspeed="500"
                                 data-endeasing="Power4.easeIn"
-                                style="z-index: 3">Coming Soon...
+                                style="z-index: 3">The book is coming soon!
                             </div>
     
                             <!-- LAYER NR. 3 
@@ -473,6 +473,133 @@
                             </div>
                         </li>
 
+						<!-- SLIDE  -->
+						<li data-transition="zoomout" data-slotamount="7" data-masterspeed="1500" >
+							<!-- MAIN IMAGE -->
+                            <img src="assets/images/demo/revolution_slider/furniturebg22.jpg"  alt="furniturebg22"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+							<!-- LAYERS -->
+
+							<!-- LAYER NR. 1 -->
+							<div class="tp-caption large_bold_white skewfromrightshort customout"
+								data-x="right" data-hoffset="-95"
+								data-y="200" 
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="500"
+								data-start="1400"
+								data-easing="Back.easeOut"
+								data-endspeed="500"
+								data-endeasing="Power4.easeIn"
+								style="z-index: 2">Did Jesus lied
+							</div>
+
+							<!-- LAYER NR. 2 -->
+							<div class="tp-caption large_bold_white skewfromleftshort customout"
+								data-x="right" data-hoffset="-95"
+								data-y="bottom" data-voffset="-370"
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="300"
+								data-start="1500"
+								data-easing="Back.easeOut"
+								data-endspeed="500"
+								data-endeasing="Power4.easeIn"
+								style="z-index: 3">to his brothers?
+							</div>
+
+							<!-- LAYER NR. 3 -->
+							<div class="tp-caption small_light_white customin customout"
+								data-x="right" data-hoffset="-50"
+								data-y="bottom" data-voffset="-255"
+								data-customin="x:0;y:100;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:3;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="500"
+								data-start="1600"
+								data-easing="Power4.easeOut"
+								data-endspeed="500"
+								data-endeasing="Power4.easeIn"
+                                style="z-index: 4">
+                                    You go up to the feast. I am not going up to this feast, for my time <br>
+                                    has not yet fully come.” After saying this, he remained in Galilee.<br>
+                                    But after his brothers had gone up to the feast, then he also went up, <br>
+                                    not publicly but in private.
+                            </div>
+
+							<!-- LAYER NR. 4 -->
+							<div class="tp-caption roundedimage customin customout"
+								data-x="0"
+								data-y="center" data-voffset="0"
+								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:5;scaleY:5;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="1000"
+								data-start="800"
+								data-easing="Back.easeOut"
+								data-endspeed="300"
+								style="z-index: 5"><img src="assets/images/biblical/jesus-and-brothers.png" alt="">
+							</div>
+
+							<!-- LAYER NR. 5 
+							<div class="tp-caption large_bg_black customin"
+								data-x="182"
+								data-y="181" 
+								data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+								data-speed="1000"
+								data-start="1200"
+								data-easing="Back.easeInOut"
+								data-endspeed="300"
+								style="z-index: 6">Exodus 1:19
+							</div>-->
+
+							<!-- LAYER NR. 6 -->
+							<div class="tp-caption largegreenbg customin"
+								data-x="45"
+								data-y="100" 
+								data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+								data-speed="1000"
+								data-start="1100"
+								data-easing="Back.easeInOut"
+								data-endspeed="300"
+								style="z-index: 7">
+                                    {{{ ceil((mktime(0, 0, 0, 3, 25, 2016) - time()) / 86400) }}} days to release
+							</div>
+
+							<!-- LAYER NR. 7 -->
+							<div class="tp-caption customin"
+								data-x="785"
+								data-y="455" 
+								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="500"
+								data-start="1800"
+								data-easing="Power4.easeInOut"
+								data-endspeed="300"
+								data-linktoslide="next"
+								style="z-index: 8"><img src="assets/images/demo/revolution_slider/rightarrow.png" alt="">
+							</div>
+
+							<!-- LAYER NR. 8 -->
+							<div class="tp-caption customin"
+								data-x="725"
+								data-y="455" 
+								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="500"
+								data-start="1700"
+								data-easing="Power4.easeInOut"
+								data-endspeed="300"
+								data-linktoslide="prev"
+								style="z-index: 9"><img src="assets/images/demo/revolution_slider/leftarrow.png" alt="">
+							</div>
+
+							<!-- LAYER NR. 9 -->
+							<div class="tp-caption medium_light_white customin"
+								data-x="125"
+								data-y="51" 
+								data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+								data-speed="1000"
+								data-start="1000"
+								data-easing="Back.easeInOut"
+								data-endspeed="300"
+								style="z-index: 10">
+                                    Book is coming soon!
+							</div>
+						</li>
 
 						<!-- SLIDE  -->
 						<li data-transition="slideleft" data-slotamount="7" data-masterspeed="1500" >
@@ -517,7 +644,7 @@
 								data-easing="Power4.easeOut"
 								data-endspeed="500"
 								data-endeasing="Power4.easeIn"
-								style="z-index: 4">Philippine publishers are welcome to publish this book.  I believe that <br>it will help our pastors and teachers in their study on the subject of lying.
+								style="z-index: 4">Publishers are welcome to publish this book.  I believe that it will help <br>our pastors and teachers in their study of the subject on lying.
 							</div>
 
 							<!-- LAYER NR. 4 -->

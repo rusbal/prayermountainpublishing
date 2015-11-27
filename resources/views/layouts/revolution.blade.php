@@ -352,7 +352,7 @@
 						<!-- SLIDE  -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
                             <!-- MAIN IMAGE -->
-                            <img src="assets/images/demo/revolution_slider/furniturebg22.jpg"  alt="furniturebg22"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+							<img src="assets/images/demo/revolution_slider/condoebg1.jpg"  alt="condoebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                             <!-- LAYERS -->
     
                             <!-- LAYER NR. 1 -->
@@ -604,7 +604,7 @@
 						<!-- SLIDE  -->
 						<li data-transition="slideleft" data-slotamount="7" data-masterspeed="1500" >
 							<!-- MAIN IMAGE -->
-							<img src="assets/images/demo/revolution_slider/condoebg1.jpg"  alt="condoebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                            <img src="assets/images/demo/revolution_slider/furniturebg22.jpg"  alt="furniturebg22"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
 							<!-- LAYERS -->
 
 							<!-- LAYER NR. 1 -->

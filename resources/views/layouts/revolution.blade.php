@@ -657,7 +657,7 @@
 								data-start="1700"
 								data-easing="Power4.easeInOut"
 								data-endspeed="300"
-								style="z-index: 5"><img src="assets/images/biblical/book-cover-design-2.png" alt="">
+								style="z-index: 5"><img src="assets/images/biblical/square-holy-bible-on-lying.png" alt="">
 							</div>
 
 							<!-- LAYER NR. 5 -->
@@ -709,7 +709,7 @@
 								data-start="1800"
 								data-easing="Power4.easeInOut"
 								data-endspeed="300"
-								style="z-index: 9"><img src="assets/images/biblical/book-cover-design-1.png" alt="">
+								style="z-index: 9"><img src="assets/images/biblical/square-on-lying-back.png" alt="">
 							</div>
 
 							<!-- LAYER NR. 9 -->
@@ -722,7 +722,7 @@
 								data-start="1900"
 								data-easing="Power4.easeInOut"
 								data-endspeed="300"
-								style="z-index: 10"><img src="assets/images/biblical/book-cover-design-3.png" alt="">
+								style="z-index: 10"><img src="assets/images/biblical/square-what-lying-is.png" alt="">
 							</div>
 
 							<!-- LAYER NR. 10 -->

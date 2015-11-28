@@ -34,6 +34,8 @@
 		<link href="assets/css/color_scheme/orange.css" rel="stylesheet" type="text/css" /><!-- orange: default style -->
 		<!--<link id="css_dark_skin" href="assets/css/layout-dark.css" rel="stylesheet" type="text/css" />--><!-- DARK SKIN -->
 
+		<link href="assets/css/prayermountain/custom.css" rel="stylesheet" type="text/css" />
+
 		<!-- Morenizr -->
 		<script type="text/javascript" src="assets/plugins/modernizr.min.js"></script>
 	</head>
@@ -51,9 +53,7 @@
 				</button>
 
 				<!-- Logo text or image -->
-				<a class="logo scrollTo" href="#wrapper">
-					<img src="assets/images/logo.png" alt="Prayer Mountain Publishing" />
-				</a>
+				<a class="logo scrollTo" href="#wrapper"></a>
 
 				<!-- Top Nav -->
 				<div class="navbar-collapse nav-main-collapse collapse pull-right">

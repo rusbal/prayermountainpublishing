@@ -3,8 +3,20 @@
  * By R. S. Usbal
  */
 
-.book-image {
-    height: 60rem !important;
-    width: auto !important;
+#topNav a.logo {
+    background: url("/assets/images/logo.png") no-repeat scroll 0 center;
+    width: 440px;
 }
 
+@media screen and (max-width: 530px) {
+    #topNav a.logo {
+        background: url("/assets/images/logo-280.png") no-repeat scroll 0 center;
+        width: 280px;
+    }
+}
+@media screen and (max-width: 360px) {
+    #topNav a.logo {
+        background: url("/assets/images/logo-240.png") no-repeat scroll 0 center;
+        width: 240px;
+    }
+}
